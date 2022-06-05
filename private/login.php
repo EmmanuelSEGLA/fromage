@@ -40,7 +40,7 @@
 
         <a href=""><button class="w-100 btn btn-md btn-outline-success" type="submit">Sign in</button></a>
     <br><br>
-    <p>Vous n'avez pas de compte? <a href="inscription.php">Inscrivez-vous maintenant.</a></p>
+  
 
     
     <p class="mt-5 mb-3 text-muted">&copy; GROUP F</p>
